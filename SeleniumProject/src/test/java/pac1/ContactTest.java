@@ -13,6 +13,11 @@ public class ContactTest {
 	String PASSWORD = System.getProperty("password");
 	String USERNAME = System.getProperty("username");
 	
+	System.out.println(URL);
+	System.out.println(BROWSER);
+	System.out.println(PASSWORD);
+	System.out.println(USERNAME);
+	
 	}
 	
 	@Test
